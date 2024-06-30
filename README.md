@@ -15,7 +15,7 @@ The Sorting Visualizer is an interactive web application that provides a dynamic
 
 ### Important Node:
 1) Colored representation of step being executed.
-  1. Blue:default
+    1. Blue:default
   2. Yellow: Being compared
   3. Red: Identified as in incorrect position and to be moved
   4. Green: In correct position
