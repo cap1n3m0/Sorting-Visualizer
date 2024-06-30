@@ -20,9 +20,9 @@ The Sorting Visualizer is an interactive web application that provides a dynamic
     3. Red: Identified as in incorrect position and to be moved
     4. Green: In correct position
 2) Controls for visualizations
-      1. Speed of visualization (5 speed levels)
-      2. Data size ()
-      3. Generation of new data (Randomly generate new data).
+    1. Speed of visualization (5 speed levels)
+    2. Data size ()
+    3. Generation of new data (Randomly generate new data).
 
 ### Algorithms Covered:
 
