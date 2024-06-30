@@ -35,7 +35,7 @@ The Sorting Visualizer is an interactive web application that provides a dynamic
 
 ### User Interface:
 
-![alt text](http://url/to/img.png)
+![User Interface]([http://url/to/img.png](https://github.com/cap1n3m0/Sorting-Visualizer-/blob/main/image/UI.png))
 
 
 ### Potential Enhancements:
