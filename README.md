@@ -32,6 +32,12 @@ The Sorting Visualizer is an interactive web application that provides a dynamic
 4. Quick Sort: An efficient, divide-and-conquer algorithm that uses a pivot to partition the array into sub-arrays which are then recursively sorted.
 5. Merge Sort: A stable, comparison-based, divide-and-conquer algorithm that divides the array into halves, sorts them, and then merges the sorted halves.
 
+
+### User Interface:
+
+![alt text](http://url/to/img.png)
+
+
 ### Potential Enhancements:
 
 1. Additional Algorithms: Expand the library to include other sorting algorithms like Heap Sort, Radix Sort, and Bucket Sort.
