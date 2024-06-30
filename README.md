@@ -4,7 +4,7 @@ Sorting is a fundamental concept in computer science, essential for optimizing t
 
 The Sorting Visualizer is an interactive web application that provides a dynamic and engaging way to learn and understand various sorting algorithms. Developed using HTML, CSS, and JavaScript, this tool allows users to visualize how different sorting techniques organize data in real-time. By offering a graphical representation of algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, and Merge Sort, the Sorting Visualizer makes the learning process intuitive and enjoyable.
 
-Features:
+##Features:
 
 1. Algorithm Selection: Users can choose from a range of popular sorting algorithms to visualize.
 2. Speed Adjustment: Control the speed of the visualization to see the algorithms in slow motion or fast-forward.
@@ -13,7 +13,7 @@ Features:
 5. Algorithm Insights: Provide detailed analysis and performance metrics such as time complexity and space complexity.
 6. Educational Annotations: Display key steps and explanations of what is happening during each stage of the sorting process.
 
-Important Node:
+###Important Node:
 1) Colored representation of step being executed.
   1.1. Blue:default
   1.2. Yellow: Being compared
@@ -24,7 +24,7 @@ Important Node:
   2.2. Data size ()
   2.3. Generation of new data (Randomly generate new data).
 
-Algorithms Covered:
+####Algorithms Covered:
 
 1. Bubble Sort: A simple comparison-based algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 2. Selection Sort: An in-place comparison sort that divides the input list into two parts: the sorted part and the unsorted part, and repeatedly selects the smallest (or largest) element from the unsorted part.
